@@ -2,8 +2,8 @@
 .env
 service_account.json
 .ipynb_checkpoints/
-data/unziped_data
 data/zip/*.zip
+data/unziped_data
 
 # Arquivos temporários
 *.log
